@@ -1,9 +1,9 @@
 {
-  "version": "2.9.2",
-  "download_url": "https://github.com/simonecampora/tkd-event-search/releases/download/v2.9.2/tkd-event-search.zip",
+  "version": "2.9.3",
+  "download_url": "https://github.com/simonecampora/tkd-event-search/releases/download/v2.9.3/tkd-event-search.zip",
   "requires": "5.8",
   "requires_php": "7.0",
   "homepage": "https://github.com/simonecampora/tkd-event-search",
-  "released": "2026-10-05T15:52:04.280Z",
-  "changelog": "Changes since wp-v2.9.1:\n\n- 8220268 Rebuild plugin as 2.9.2 (no code changes) to test the auto-update flow end to end"
+  "released": "2026-10-05T16:35:55.441Z",
+  "changelog": "Changes since wp-v2.9.2:\n\n- 507c62d Add plugin icon (bracket + gold winner): updates list, details popup, admin menu"
 }

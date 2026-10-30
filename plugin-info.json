@@ -1,9 +1,9 @@
 {
-  "version": "2.9.3",
-  "download_url": "https://github.com/simonecampora/tkd-event-search/releases/download/v2.9.3/tkd-event-search.zip",
+  "version": "2.9.4",
+  "download_url": "https://github.com/simonecampora/tkd-event-search/releases/download/v2.9.4/tkd-event-search.zip",
   "requires": "5.8",
   "requires_php": "7.0",
   "homepage": "https://github.com/simonecampora/tkd-event-search",
-  "released": "2026-10-05T16:35:55.441Z",
-  "changelog": "Changes since wp-v2.9.2:\n\n- 507c62d Add plugin icon (bracket + gold winner): updates list, details popup, admin menu"
+  "released": "2026-10-30T12:30:59.938Z",
+  "changelog": "Changes since wp-v2.9.3:\n\n- 00babef Plugin 2.9.4\n- 01af582 Data: add events 2891 (Bristol Open) and 775 (ITF England Nationals); README onboarding steps\n- 3148426 Scraper: support WAKO/kickboxing events (Bristol Open) and add the finals tracker\n- 65c2ceb Plugin: hide newly scraped events on the switcher until an admin ticks them"
 }
